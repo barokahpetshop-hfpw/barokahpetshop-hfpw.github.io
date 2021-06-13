@@ -1,0 +1,9 @@
+.nav-active{
+    background-color: #fb8c00 !important;
+    border-color: #fb8c00 !important;
+    color: #ffffff !important;
+}
+
+.centerin{
+    text-align: center;
+}
